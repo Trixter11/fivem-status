@@ -1,37 +1,13 @@
-# VSOUSA14 FIVEM DISCORD BOT
-
-Self coded FiveM Discord Bot
+ogólnie to bot discord który w statusie pokazuje ilość osób na serwerze fivem
 
 
-## HOW TO INSTALL
 
-### DEPENDENCIES
-   * [NodeJS](https://nodejs.org/en/)
-   * axios
-   * fs
-   * discord.js-pagination
-   * discordjs v12
-    
-### SETUP
 
-   1. Install NodeJS in your computer or VPS
-    
-   2. Download the source code
-    
-   3. Open config.json and configure the file
-     
-   4. Open your terminal, go to bot root folder using `cd` command and install the dependencies using `npm install`
-    
-   5. Open `start.bat` and you are good to go.
-    
-### SUPORT 
 
-   If you're having trouble setting up the bot, feel free to join my discord server: https://discord.gg/GWZsjkJ
-    
-   Setup video https://www.youtube.com/watch?v=FHnB-6bR6ak
-    
-### UPDATES
 
-   I will keep updating this bot, so stay tuned in my discord server, there i will give news and updates before the code goes live.
 
-"# nlrp-status" 
+
+
+
+
+z konfiguracją pomagam na dc:trixterv2#1337 lub https://discord.gg/BRxJgFVm4e
