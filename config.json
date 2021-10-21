@@ -1,8 +1,8 @@
 {
-    "BOT_TOKEN": "ODEzMzkwNTUzNjAwNzUzNjg1.YDOm_A.oHmln9Xm2vjC70RIWZcwjsbaI6c",
-    "SERVER_URL": "54.37.161.85:30120",
+    "BOT_TOKEN": "token",
+    "SERVER_URL": "ip:port",
     "SERVER_LOGO": "",
-    "SERVER_NAME": "NightLifeRP",
+    "SERVER_NAME": "nazwa serwisu",
     "PREFIX": ".",
     "CHANNELS_ID":{
         "SUGGESTIONS":"",
